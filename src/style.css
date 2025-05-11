@@ -47,7 +47,7 @@ span {
 }
 
 main {
-    min-height: 95vh;
+    min-height: 95dvh;
 
     display: flex;
     justify-content: center;
@@ -62,7 +62,7 @@ main {
     justify-content: center;
 
     border-radius: 0.5rem;
-    max-width: 24rem;
+    max-width: 20rem;
 }
 
 .img-overlay {
