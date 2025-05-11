@@ -21,7 +21,7 @@ This is a simple page to practice HTML and CSS. The challenge comes from the Fro
 
 ### Links
 
-- Solution from frontend Mentor URL: [Here](https://www.frontendmentor.io/solutions/order-summary-component-mobile-first-responsive-ilnCsbGcij)
+- Solution from frontend Mentor URL: [Here](https://www.frontendmentor.io/solutions/stats-preview-card-component-mobile-first-responsive-Ypp4Cslyob)
 - Live Site URL: [Here](https://statspreviewcardcomponent-agp482.netlify.app/)
 
 ## My process
